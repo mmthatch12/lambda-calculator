@@ -9,4 +9,4 @@ const NumberButton = ({ number }) => {
   );
 };
 
-export default NumberButton;
+export default NumberButton

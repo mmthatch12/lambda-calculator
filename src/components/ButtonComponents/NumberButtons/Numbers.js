@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 //import any components needed
-import{ NumberButton } from './NumberButton';
+import NumberButton from './NumberButton.js';
 
 //Import your array data to from the provided data file
 import { numbers } from '../../../data';
