@@ -1,0 +1,19 @@
+.container {
+    background-color: red;
+}
+
+.spButton {
+    color: white;
+    background-color: purple;
+}
+
+.opButton {
+    color: white;
+    background-color: magenta;
+}
+
+.nubButton {
+    color: white;
+    background-color: royalblue;
+}
+
