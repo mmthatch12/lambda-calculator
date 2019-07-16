@@ -1,9 +1,12 @@
 import React from "react";
 
-export const NumberButton = (number) => {
+export const NumberButton = ({ number }) => {
   return (
     <>
-      {number/* Display a button element rendering the data being passed down from the parent container on props */}
+      {/* Display a button element rendering the data being passed down from the parent container on props */}
+      <button>{number}</button>
     </>
   );
 };
+
+export default NumberButton;
