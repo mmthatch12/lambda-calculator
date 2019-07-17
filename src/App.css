@@ -6,6 +6,23 @@
    
 }
 
+.theDisp {
+    color: white;
+    background-color: pink;
+    width: 350px;
+    margin: auto;
+    height: 40px;
+    border-radius: 50px;
+    text-align: end;
+    padding-top: 25px;
+
+
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+}
 
 
 .spButton {
@@ -16,13 +33,20 @@
     width: 75px;
 }
 
+.opCont {
+    display: flex;
+    flex-direction: row;
+}
+
 .opButton {
     color: white;
     background-color: magenta;
     border-radius: 100%;
     height: 75px;
     width: 75px;
+    align-self: row;
 }
+
 
 .numCont{
     width: 260px;
@@ -42,18 +66,7 @@
     border-radius: 50px;
 }
 
-.theDisp {
-    color: white;
-    background-color: pink;
-    width: 350px;
-    margin: auto;
-    height: 40px;
-    border-radius: 50px;
-    text-align: end;
-    padding-top: 25px;
 
-
-}
 
 .logo {
     padding: 25px 0px 0px 25px;
