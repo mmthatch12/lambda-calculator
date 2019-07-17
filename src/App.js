@@ -25,7 +25,10 @@ function App() {
         <Display />
         <Specials />
         <Operators />
-        <Numbers />
+        <div className='numCont'>
+          <Numbers />
+        </div>
+        
         
       </div>
     </div>
