@@ -1,19 +1,41 @@
 .container {
     background-color: red;
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 .spButton {
     color: white;
     background-color: purple;
+    border-radius: 100%;
 }
 
 .opButton {
     color: white;
     background-color: magenta;
+    border-radius: 100%;
 }
 
 .nubButton {
     color: white;
     background-color: royalblue;
+    border-radius: 100%;
+}
+
+.theDisp {
+    color: white;
+    background-color: pink;
+    width: 350px;
+    margin: auto;
+    height: 40px;
+    border-radius: 50px;
+    text-align: end;
+}
+
+.logo {
+    padding: 25px 0px 0px 25px;
 }
 
