@@ -3,6 +3,10 @@
     width: 400px;
     height: 600px;
     border-radius: 20px;
+   
+}
+
+.App {
     display: flex;
     flex-direction: column;
 }
@@ -37,5 +41,6 @@
 
 .logo {
     padding: 25px 0px 0px 25px;
+
 }
 
